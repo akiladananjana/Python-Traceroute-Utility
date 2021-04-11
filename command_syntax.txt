@@ -1,0 +1,4 @@
+traceroute.py <target_ip> <outbound_interface_name>
+
+eg:
+    traceroute.py 1.1.1.1 ens39
